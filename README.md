@@ -4,8 +4,7 @@
 
 - 🔭 I’m currently working on a Saas Application, stay tuned!
 - 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on Ruby on Rails, React
-- 🤔 I’m looking for help on my next role
+- 👯 I’m looking to collaborate on Ruby on Rails
 - 📫 How to reach me: twitter- @buildwithallan
 
 
